@@ -3,16 +3,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/2imOBfqmbqFSYeGcaN/giphy.gif" width="250"/></p>
 
-- 🔭 I’m currently exploring **the web3 space** in depth
-
-- 🌱 I’m currently learning **JS and Solidity @AlchemyUniversity**
-
-- 👯 I’m looking to collaborate on my live **Defi Quant strategy**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **TG: @valarmorghulis_coin**
-
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/treebearjason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="treebearjason" height="30" width="40" /></a>
